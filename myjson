@@ -1,0 +1,14 @@
+{
+  "remark": "",
+  "address": "",
+  "port": 0,
+  "password": "",
+  "network": "",
+  "wshost": "",
+  "wspath": "",
+  "tls": "",
+  "SNI": "",
+  "fingerprint": "",
+  "alpn": "",
+  "allowinsecure": false
+}
